@@ -1,0 +1,7 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×ı­‘ıÿÿÿÿ8¨è”€“2J$999d4f05-d646-4bbb-aed6-2af535ee172a
+	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8©è”€“2J$460773a6-f099-49e7-9362-22497deabe8e
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(æ‹Õµ8«è”€“2J$ecbb2270-de30-4be1-a18a-a7660061d4a4
+‚
+java:S1128":Remove this unused import 'com.atul.driver.DriverManager'.(ô½˜ëÿÿÿÿÿ8¹è”€“2J$9e76472d-dfe9-4bef-8ff2-2dbe1c649fe5

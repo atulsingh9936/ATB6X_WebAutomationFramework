@@ -1,4 +1,4 @@
-package com.atul.test;
+package com.atul.test.qa;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

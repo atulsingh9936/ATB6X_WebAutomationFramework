@@ -1,0 +1,30 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(“â¨¯üÿÿÿÿ8÷éÆœ’2J$75c54f60-4567-45f1-ac3b-96a52ca11a7c
+˜	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôŞÖ°ıÿÿÿÿ8÷éÆœ’2J$57a7d83c-8ac4-47bd-8866-46e93a53c5e7
+“	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂµìÆ8÷éÆœ’2J$6aabe69d-8efb-4ae1-a8fb-9edf5c987bfc
+˜	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œûœêúÿÿÿÿ8÷éÆœ’2J$8518ac37-ebfa-458f-bf54-dd285685706b
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹İ¾ÿÿÿÿÿ8÷éÆœ’2J$31e38549-ce08-45a4-a404-db99e0553236
+	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8øéÆœ’2J$8f7a5039-d028-4ce3-884b-4a2258518abb
+–	java:S116"TRename this field "error_msg" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Ÿ”ş8ùéÆœ’2J$303afa17-0250-4f12-9286-aeb9c0295772
+…
+java:S1854*"BRemove this useless assignment to local variable "error_msg_text".(ÂµìÆ8ıéÆœ’2J$691dae54-fff9-41b5-a21e-a23e8e80f8d3
+¡
+java:S2142%"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8êÆœ’2J$09bee1a4-c708-4538-b810-56d8e8968edc
+…
+java:S1117)"=Rename "error_msg" which hides the field declared at line 26.(ôŞÖ°ıÿÿÿÿ8‚êÆœ’2J$978868ad-348f-4180-80cc-851f0f509595
+v
+java:S1481*"3Remove this unused "error_msg_text" local variable.(ÂµìÆ8ƒêÆœ’2J$5a088138-ce97-4c7c-b0c7-72ff3c220602
+m	java:S106,"+Replace this use of System.out by a logger.(Ó®8ƒêÆœ’2J$4ec890b2-b99b-443b-a9c2-5ab6decef59d
+„
+java:S1128"ARemove this unused import 'org.openqa.selenium.PageLoadStrategy'.(ÁšÃ8†ïÕœ’2J$f57006bb-92d4-4057-9a3c-f3ade69a4cc8
+†
+java:S1128"DRemove this unused import 'org.openqa.selenium.chrome.ChromeDriver'.(†È8†ïÕœ’2J$ec72e4d3-5bd2-4104-8f7f-383baa057c6f
+
+java:S1128"ERemove this unused import 'org.openqa.selenium.chrome.ChromeOptions'.(ÿ¾Ïóüÿÿÿÿ8†ïÕœ’2J$96a2d602-01c0-42d1-a605-0fbaccb648be
+ƒ
+java:S1128	"@Remove this unused import 'org.openqa.selenium.edge.EdgeDriver'.(ìÅ°°8ƒêÆœ’2J$bc63ea7b-91f3-467f-8aa3-03daf26f2b24
+‰
+java:S1128
+"ARemove this unused import 'org.openqa.selenium.edge.EdgeOptions'.(Åëõ³úÿÿÿÿ8ƒêÆœ’2J$5607c220-8b6d-4870-92ef-4bfc6c25a404
+p
+java:S1068"-Remove this unused "error_msg" private field.(…Ÿ”ş8ƒêÆœ’2J$993edbe1-6f99-4e33-8f9d-3bbc8901bc7c

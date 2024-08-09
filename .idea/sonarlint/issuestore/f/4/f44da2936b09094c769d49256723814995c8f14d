@@ -1,0 +1,8 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ή“›τύÿÿÿÿ8§ιΧ’2J$0e95f3f7-715b-4a97-853c-40ffb16b68f3
+΅	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³έΫωÿÿÿÿ8§ιΧ’2J$17596130-b4cd-4c48-bea8-dc7049380468
+	java:S112+"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8¨ιΧ’2J$a8b105a9-7551-437f-9890-f09e3c0acdc8
+”	java:S116"SRename this field "Password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Βρά]8©ιΧ’2J$d1153667-8e73-4f8c-a61c-4ddab6b2e5e2
+	java:S116!"XRename this field "error_message" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ψ”Ϋ8©ιΧ’2J$f1707703-f86b-4e0a-8513-d61d2bb416d6
+΅
+java:S2142*"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(δ Ή€8¬ιΧ’2J$ff0a70e5-bec2-43f7-b46c-c228bc595bd4

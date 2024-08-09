@@ -1,0 +1,15 @@
+
+•
+java:S2259"MA "NullPointerException" could be thrown; "fileInputStream" is nullable here.(Ûû¼­øÿÿÿÿ8øÉÖ’2J$e2274101-c503-4395-a278-0a2ed1deb9df
+‡
+java:S2259 "?A "NullPointerException" could be thrown; "p" is nullable here.(ÈÀ»îøÿÿÿÿ8øÉÖ’2J$c0b6df45-43c6-4d40-ac7f-16bb3d0644a2
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ë³ø8øÉÖ’2J$f822b857-158b-4f28-881f-7814a5996d1d
+`
+java:S1118"Hide this public constructor.(¼ë³ø8ùÉÖ’2J$3bef0ac5-84ed-49f1-842b-b5b6c80085a4
+r
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8€ÉÖ’2J$5091b0f5-965d-4b6d-ba3b-135770844ec3
+l
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8âËËı’2J$c13f0d6c-a8f9-434c-8de9-0c8160cb9f60
+x
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8âËËı’2J$db78136a-0418-4806-a266-afe71186ab65
