@@ -8,5 +8,3 @@ java:S1444",Make this "public static driver" field final(ÜçÁÈûÿÿÿÿ8ì¡‹¨“2J$4c
 java:S1118":Add a private constructor to hide the implicit public one.(øÅÖõ8ı¡‹¨“2J$f63ea0cc-1594-47e7-aea6-0c0184bb60b4
 r	java:S1061"+Replace this use of System.out by a logger.(ÏÎıøÿÿÿÿÿ8ÁÌ‹¨“2J$f7d8bf11-1705-4322-9a79-e347ced9340d
 ~	java:S1256"<This block of commented-out lines of code should be removed.(¶÷Ì8ı¡‹¨“2J$7e3905d7-026c-407a-803e-0d0a077c8c27
-
-java:S1128"JRemove this unused import 'io.qameta.allure.testng.TestInstanceParameter'.(ÕÛš…8ı¡‹¨“2J$8bb58c6e-63fc-4487-9f61-62388ba75be2

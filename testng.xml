@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" parallel="methods" name="ATB6X_WebAutomationFramework">
         <classes>
-            <class name="com.atul.test.TestVWOLogin_POM">
+            <class name="com.atul.test.qa.TestVWOLogin_POM">
             <methods>
                 <include name="testloginnegativeVWO"/>
                 <include name="testloginnegativeVWO2"/>
