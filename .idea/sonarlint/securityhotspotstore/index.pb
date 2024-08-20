@@ -36,3 +36,5 @@ R
 testnguat.xml,4\e\4e7755a02660c2c47bd80a0aef3d23c91a19dd92
 u
 Esrc/test/java/com/atul/test/qa/TestVWOLogin_PF_Driver_Manager_qa.java,9\4\94fa0ef4a4ec0de555cdb149390e3a21e93ddddf
+d
+4src/test/java/com/atul/test/qa/TestVWOLogin_POM.java,2\b\2b5378c7ed195427c85253c6e4e46e2ffaf16a9e

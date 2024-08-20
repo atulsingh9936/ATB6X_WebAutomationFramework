@@ -1,0 +1,11 @@
+
+]
+java:S1854"BRemove this useless assignment to local variable "error_msg_text".(¿Óè½øÿÿÿÿ
+N
+java:S1481"3Remove this unused "error_msg_text" local variable.(¿Óè½øÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(–ÍÒ¡
+X
+java:S1854"BRemove this useless assignment to local variable "error_msg_text".(è¥º¯
+I
+java:S1481"3Remove this unused "error_msg_text" local variable.(è¥º¯
+Q	java:S125"<This block of commented-out lines of code should be removed.(–ÍÒ¡
